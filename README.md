@@ -2,7 +2,7 @@
 
 This repository hold the codebase for our paper:
 
-**[DanceNet3D: Music Based Dance Generation with Parametric Motion Transformer](https://arxiv.org/abs/2103.10206)**, Buyu Li, Yongchi Zhao, Lu Sheng.
+**[DanceNet3D: Music Based Dance Generation with Parametric Motion Transformer](https://arxiv.org/abs/2103.10206v2)**.
 
 <p align="center">
     <img src="Resource/overview.png", width=70%>
