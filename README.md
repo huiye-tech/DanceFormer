@@ -4,7 +4,7 @@ The official repository of the work:
 
 **[DanceNet3D: Music Based Dance Generation with Parametric Motion Transformer](https://arxiv.org/abs/2103.10206)**.
 
-<p align="center">
+<p align="left">
     <img src="https://huiye-tech.github.io/post/dancenet3d/featured.jpg", width=90%>
 </p>
 
