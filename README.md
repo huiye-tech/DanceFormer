@@ -1,17 +1,13 @@
-# DanceNet3D
+# DanceFormer
 
 The official repository of the work:
 
-**[DanceNet3D: Music Based Dance Generation with Parametric Motion Transformer](https://arxiv.org/abs/2103.10206)**.
+**[DanceFormer: Music Conditioned 3D Dance Generation with Parametric Motion Transformer](https://ojs.aaai.org/index.php/AAAI/article/view/20014)**.
 
 <p align="left">
-    <img src="https://huiye-tech.github.io/files/overview.jpg", width=90%>
+    <img src="https://huiye-tech.github.io/files/overview_v2.png", width=90%>
 </p>
 
-## Dataset and Results
+## PhantomDance Dataset is Available Now！
 
-Please visit the [Project Page](https://huiye-tech.github.io/project/dancenet3d/) for the result videos and the details of the PhantomDance-100 dataset.
-
-## Code
-
-Code is coming soon.
+Please visit this [Repo](https://github.com/libuyu/PhantomDanceDataset) for the details of the PhantomDance dataset and toolkit.
