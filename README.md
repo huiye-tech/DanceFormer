@@ -1,7 +1,5 @@
 # DanceFormer
 
-The official repository of the work:
-
 **[DanceFormer: Music Conditioned 3D Dance Generation with Parametric Motion Transformer](https://ojs.aaai.org/index.php/AAAI/article/view/20014)**.
 
 <p align="left">
